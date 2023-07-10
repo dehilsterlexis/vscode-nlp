@@ -97,6 +97,9 @@ Click [here](https://github.com/VisualText/vscode-nlp/issues) for known issues.
 
 For the complete list of changes and release notes, click [here](https://marketplace.visualstudio.com/items/dehilster.nlp/changelog).
 
+### 2.29.0
+Removed unicode libraries from download for Linux and Mac
+
 ### 2.28.11
 Fixed error display (again)
 
@@ -156,12 +159,6 @@ Added library files for dictionaires and KBs.
 
 ### 2.9.2
 Copy kb files to a sister analyzer.
-
-### 2.8.2
-Added toggle active / inactive for kbb and dict files. Added attr and val while loops in snipper.
-
-### 2.7.2
-Insert and delete orphan(s), icon variety in KB, duplidate line shortcut in dict and kbb, explore output directory, import analyzer
 
 # Development
 

@@ -3,6 +3,9 @@ All notable changes to the [VSCode NLP++ extension](http://vscode.visualtext.org
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+### 2.29.0
+Removed unicode libraries from download for Linux and Mac
+
 ### 2.28.11
 Fixed error display (again)
 
